@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Results</title>
+<title>Fake Results Project</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
