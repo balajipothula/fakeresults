@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Student Exam Fake ResultS.</title>
+<title>Fake Results</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
