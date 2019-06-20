@@ -64,7 +64,7 @@
         <version>2.4</version>
         <configuration>
           
-          <format>{0,number}</format>
+          <format>{0,number,integer}</format>
           <items>
             <item>buildNumber</item>
           </items>                    
