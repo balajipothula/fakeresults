@@ -62,16 +62,8 @@
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
         <version>2.4</version>
-        <configuration>
-          
-          <format>{0,number,integer}</format>
-          <items>
-            <item>buildNumber</item>
-          </items>                    
-          <doCheck>false</doCheck>
-          <doUpdate>false</doUpdate>
-          
-          <warName>${project.name}-${project.version}.${buildNumber}</warName>
+        <configuration>        
+          <warName>${project.name}-${project.version}</warName>
           <!--
           <outputDirectory>${env.HOME}</outputDirectory>
           -->
